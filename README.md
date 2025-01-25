@@ -27,8 +27,8 @@ Welcome to the Hero vs. Evil Wizard game! This is a simple text-based RPG battle
 
 2.  **Access the folder and run the file**: Run the following commands in the terminal:
   
-   - ```cd Evil-Wizard```
-   - ```python Evil-Wizard.py```
+   - ```cd Evil_Wizard```
+   - ```python Evil_Wizard.py```
 
 3. **Choose Your Character**: Select a character class and enter your character's name.
 
